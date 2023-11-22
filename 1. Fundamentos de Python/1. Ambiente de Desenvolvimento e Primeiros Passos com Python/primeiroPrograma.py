@@ -1,0 +1,3 @@
+# Existe uma maldição no mundo dos DEVs que, se a primeira codificação que fizermos numa linguagem nova não for o "Hello, World!", a pessoa não se tornará um programador de sucesso, logo...
+print("Hello, World!")
+print("Olá, mundo!")
